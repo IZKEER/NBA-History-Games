@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![]images/Print.JPG
+![](images/Print.JPG)
 
 ## My process
 
