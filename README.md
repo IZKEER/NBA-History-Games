@@ -1,4 +1,4 @@
-# NBA Chart Project
+# NBA History Games
 
 ### Screenshot
 
